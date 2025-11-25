@@ -8,12 +8,12 @@ https://ilvo.vlaanderen.be/en/research-projects/post-entry-surveillance-of-the-o
 
 ---
 
-## Analytical pipelines used in *Vanbergen et al.* (Insects, 2026)
+## Analytical pipelines used in *Vanbergen et al.* (Insects, 2025)
 
 This repository extends and unifies analytical pipelines that contributed to the 
 work reported in:
 
-**Vanbergen S., Deschepper P., Van Autreve J., Huyshauwer V., Virgilio M., Bonte J., Dermauw W. (2026).**  
+**Vanbergen S., Deschepper P., Van Autreve J., Huyshauwer V., Virgilio M., Bonte J., Dermauw W. (2025).**  
 *Genomic tracing reveals multiple independent occurrences of Bactrocera dorsalis in Belgium.*  
 **Insects**.
 
